@@ -1,7 +1,7 @@
 # Hi,
 
 ### My name is Alexandre I'm 20 and I live in Bordeaux.
--
+
 
 Skills
 
@@ -11,7 +11,7 @@ Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--
+
 
 #### The best distro
 
