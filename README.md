@@ -1,10 +1,10 @@
 # Hi,
 
 ### My name is Alexandre I'm 20 and I live in Bordeaux.
-
+-
 
 Skills
--
+
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,12 +16,12 @@ Skills
 #### The best distro
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
--
+
 
 #### The best editor
 
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
--
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIzze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
