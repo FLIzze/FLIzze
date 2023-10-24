@@ -1,6 +1,6 @@
 # Hi,
 
-### My name is Alexandre I'm 20 and I live in Bordeaux.
+### My name is Alexandre, I'm 20 and I live in Bordeaux.
 
 
 Skills
