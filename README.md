@@ -16,14 +16,4 @@ Skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### The best distro
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-
-
-#### The best editor
-
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIzze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
